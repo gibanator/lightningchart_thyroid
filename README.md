@@ -95,10 +95,10 @@ Environment creating instructions:
 
 #### For PyCharm (ONLY PROFESSIONAL VERSION):
 Just create an .ipynb file and start coding. The IDE will install everything needed on its own.
-![Create ipynb file](/md_images/ipynb_create.png)
+![Create ipynb file](/md_img/ipynb_create.png)
 
 #### For Visual Studio Code
-1. Install Jupyter extension ![jupyter extension](md_images/jupyter_extension.png)
+1. Install Jupyter extension ![jupyter extension](md_img/jupyter_extension.png)
 2. Select and open the working directory
 3. Create venv (`⇧⌘P` or `Ctrl-⇧-P`). Very recommended!
 4. Refer to the article (starting from "Workspace Trust" paragraph): [click](https://code.visualstudio.com/docs/datascience/jupyter-notebooks#_workspace-trust)
@@ -112,6 +112,9 @@ With it, you can create clear and visual analysis reports.
 
 #### Pandas
 In this project, we will mainly use the dataframe, two-dimensional data structure provided by Pandas. It can be easily created from CSV or Excel file.
+
+#### NumPy
+NumPy is provided with Pandas and it is a fundamental package for scientific computing in Python. It provides support for arrays, mathematical functions, and linear algebra operations.
 
 #### XGBoost
 XGBoost a popular machine learning algorithm that is highly efficient and effective for classification and regression tasks. It is an implementation of gradient boosted decision trees designed for speed and performance.
