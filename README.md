@@ -555,3 +555,14 @@ We did:
 3. Prediction modelling and its performance analysis
 
 Now, we can 'feed' our model more data without labels and get quite reliable results.
+
+## Sources:
+1. Thyroid - [medlineplus.gov](https://medlineplus.gov/thyroiddiseases.html#:~:text=Some%20of%20the%20different%20thyroid,Thyroid%20cancer)
+2. Why analyzing thyroid disease is important - [hopkinsmedicine.org](https://www.hopkinsmedicine.org/health/conditions-and-diseases/disorders-of-the-thyroid#:~:text=Problems%20with%20the%20thyroid%20include,pregnancy%20and%20many%20other%20functions)
+3. LightningChart - [lightningchart.com](https://lightningchart.com/)
+4. Jupyter - [jupyter.org](https://jupyter.org/)
+5. Pandas - [pandas.pydata.org](https://pandas.pydata.org/)
+6. NumPy - [numpy.org](https://numpy.org/)
+7. XGBoost - [xgboost.readthedocs.io](https://xgboost.readthedocs.io/en/stable/)
+8. Loss functions - [analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2020/11/binary-cross-entropy-aka-log-loss-the-cost-function-used-in-logistic-regression/#:~:text=Negative%20Average-,What%20is%20Log%20Loss%3F,predicted%20probabilities%20and%20actual%20values.)
+9. Mean Absolute Error - [wikipedia.org](https://en.wikipedia.org/wiki/Mean_absolute_error)
