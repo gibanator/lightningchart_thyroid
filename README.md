@@ -1,4 +1,4 @@
-# hyroid disease analysis data application with LightningChart Python 
+# Thyroid disease analysis data application with LightningChart Python 
 ## Introduction
 Thyroid is a small gland located in front of a human's neck. It produces hormones that affect a lot of organs in the body.
 
